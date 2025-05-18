@@ -17,7 +17,7 @@ A new Flutter project.
 - Android device or emulator 
 
 ## Installation & Running
- - git clone 
+ - git clone  https://github.com/Aman817/employee_attendance_app.git
  - cd employee_attendance_app
  - flutter pub get
  - flutter run
@@ -56,9 +56,9 @@ A new Flutter project.
         - Allows users to select custom check-in and check-out reminder times via a time picker UI.
         - These reminders are saved locally and scheduled through native alarm services.
 
-# SQLite Database:
+    # SQLite Database:
 
-- Stores attendance logs including check-in/check-out times, selfie image paths, and location data.
+    - Stores attendance logs including check-in/check-out times, selfie image paths, and location data.
 
-- The local database supports offline access and historical data retrieval for the timeline feature.
+    - The local database supports offline access and historical data retrieval for the timeline feature.
 
